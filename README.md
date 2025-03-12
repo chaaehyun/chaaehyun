@@ -18,10 +18,15 @@
 
 * * *
 **🚀 Experience**
+
 **SOPT 36th** Server part OB <sup>2025.03 - </sup>
+
 **SOPT 35th** Server part YB <sup>2024.09 - 2025.02</sup>
+
 **UK University of Central Lancashire Exchange Student** <sup>2024.01 - 2024.05</sup>
+
 **UMC Soongsil 3rd** Vice leader <sup>2022.09 - 2023.01</sup>
+
 **UMC Soongsil 2nd** Web YB <sup>2022.03 - 2022.08</sup>
 
 **Award**
