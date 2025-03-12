@@ -28,9 +28,11 @@
 **UMC Soongsil 3rd** Vice leader <sup>2022.09 - 2023.01</sup>
 
 **UMC Soongsil 2nd** Web YB <sup>2022.03 - 2022.08</sup>
+<br></br>
 
 **Award**
 -  2024 숭실대학교 벤처스타트업 아카데미 SW 경진대회 장려상
+<br></br>
 
 **Project**
 - Survave : 생각을 가치화하는 설문조사 앱테크 플랫폼
