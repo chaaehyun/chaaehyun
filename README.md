@@ -45,7 +45,7 @@
   - 역할 : Server
   - [Even if :  Repository](https://github.com/SOPT-all/35-SOPKATHON-SERVER-ANDROID3/tree/main) <br><br>
 
-  - Remake - Korailtalk : 기존 코레일톡을 개선한 새 코레일톡 서비스
+- Remake - Korailtalk : 기존 코레일톡을 개선한 새 코레일톡 서비스
   - 기간 : 2024.11 ~ 2024.12
   - 역할 : Server
   - [Korailtalk :  Repository](https://github.com/SOPT-all/35-COLLABORATION-SERVER-KORAILTALK) <br><br>
