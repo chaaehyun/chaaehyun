@@ -36,7 +36,7 @@
 
 **💻 Project**
 - Memento : TODO 자율주행 개념의 생산성 서비스
-  - 기간 : 2024.12 ~ ing (단기 개발 서비스)
+  - 기간 : 2024.12 ~ ing
   - 역할 : Server
   - [Memento :  Repository](https://github.com/dev-memento/memento-api) <br><br>
   
